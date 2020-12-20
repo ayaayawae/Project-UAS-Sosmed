@@ -9,7 +9,7 @@ Cara menjalankan dengan hosting
 1. Silahkan mengunjungi link berikut https://project-uas-sosmed-git-main.ayaayawae.vercel.app/
 
 Cara menjalankan secara lokal:
-1. Unduh source code dengan File ZIP atau dapat melalui link ini https://github.com/AriesFirmansyah/Project-SosialMedia/archive/main.zip
+1. Unduh source code dengan File ZIP atau dapat melalui link ini https://github.com/ayaayawae/Project-UAS-Sosmed/archive/main.zip
 2. Extract file zip
 3. Masuk ke folder yang sudah di extract
 4. Buka cmd, lalu arahkan ke folder yang tadi di extract
